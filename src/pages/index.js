@@ -17,7 +17,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <ContentContainer>
-      <Fade cascade className="engrave">
+      <Fade cascade delay={3000} className="engrave">
         <h1>B</h1>
         <h1>E</h1>
         <h1>N</h1>
